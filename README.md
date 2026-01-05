@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aashishgautam533@gmail.com)
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=aashish66&color=green&style=plastic)
 
-[![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashish66)](https://github.com/aashish66/github-readme-stats)
+
 
 <p>I’m a Civil Engineering graduate researcher specializing in Geomatics, Remote Sensing, and Hydrology, passionate about using spatial data and modeling to solve environmental and engineering challenges.
 
