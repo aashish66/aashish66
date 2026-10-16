@@ -13,8 +13,6 @@
 
 <p>As a Geospatial Analyst at Cannabis for Conservation, I apply my expertise in GIS and hydrology to contribute to environmental sustainability initiatives. My work is informed by a strong foundation in geographic information science and civil engineering principles, gained through my ongoing Master's studies at Jackson State University and a Bachelor's in Geomatics Engineering from Pashchimanchal Campus.  
 
-
-
 My academic research focuses on suspended sediment dynamics and water quality using tools like SWAT, InVEST SDR, and Google Earth Engine, emphasizing geospatial analytics and environmental modeling. I am motivated by the potential of spatial data and modeling to address complex challenges in hydrology and environmental conservation.</p>
 
 All of my activities are available at my Personal Website: [AashishGautam_Protfolio](https://aashish66.github.io/AashishGautam_Protfolio/) 
