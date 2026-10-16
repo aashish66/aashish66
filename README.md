@@ -11,15 +11,11 @@
 
 
 
-<p>I’m a Civil Engineering graduate researcher specializing in Geomatics, Remote Sensing, and Hydrology, passionate about using spatial data and modeling to solve environmental and engineering challenges.
+<p>As a Geospatial Analyst at Cannabis for Conservation, I apply my expertise in GIS and hydrology to contribute to environmental sustainability initiatives. My work is informed by a strong foundation in geographic information science and civil engineering principles, gained through my ongoing Master's studies at Jackson State University and a Bachelor's in Geomatics Engineering from Pashchimanchal Campus.  
 
-Currently, I’m a Graduate Research Assistant at Jackson State University, where I apply tools like InVEST SDR, Google Earth Engine, SWAT, and ADCIRC to study suspended sediment dynamics and water quality in river systems. My work combines geospatial analytics, environmental modeling, and high-performance computing to better understand how natural and engineered systems interact.
 
-Before moving to the U.S., I worked as a Geomatics Engineer and GIS Analyst at GeoThreeDModelling Pvt. Ltd. in Nepal. There, I led LiDAR, RTK drone, and TLS surveys, processed large-scale point clouds, and developed digital elevation models for hydropower, watershed, and infrastructure projects. I also participated in a BIM-integrated hydropower project, aligning GIS and 3D design data for improved spatial visualization and collaboration.
 
-I hold an FAA Part 107 Remote Pilot Certificate and have hands-on experience across a wide range of software, including ArcGIS Pro, QGIS, CityEngine, Global Mapper, ENVI, Pix4DMapper, Agisoft Metashape, and Python-based geospatial automation.
-
-I’m deeply interested in the intersection of geospatial intelligence, environmental sustainability, and digital design—and in how emerging 3D, LiDAR, and drone technologies can make infrastructure and restoration projects more efficient and resilient.</p>
+My academic research focuses on suspended sediment dynamics and water quality using tools like SWAT, InVEST SDR, and Google Earth Engine, emphasizing geospatial analytics and environmental modeling. I am motivated by the potential of spatial data and modeling to address complex challenges in hydrology and environmental conservation.</p>
 
 All of my activities are available at my Personal Website: [AashishGautam_Protfolio](https://aashish66.github.io/AashishGautam_Protfolio/) 
 
